@@ -1,3 +1,12 @@
+#Mortgage Calculator
+
+This is a simple mortgagae calulator wher you enter youe wage, your partners wage and how much of a depostit you have and it calulates how much you can afford to borrow.
+
+## Technology
+This app is written in React using Javascript using classes
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
